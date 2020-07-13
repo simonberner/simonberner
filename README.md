@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/simonberner/simonberner/blob/master/dino.gif)
 
 <!--
 **simonberner/simonberner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
