@@ -8,6 +8,9 @@ Thanks for stopping by! 😄
 
 [![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonberner&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
+From 2021 onwards, I am using [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)!
+You should too! 😉
+
 <!--
 **simonberner/simonberner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
