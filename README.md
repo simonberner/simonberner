@@ -1,8 +1,8 @@
 ![image](https://github.com/simonberner/simonberner/blob/master/dino.gif)
 
-I'm best reached on [Twitter](https://twitter.com/alientester) but feel free to 💬 [ask me anything](https://github.com/simonberner/ama/issues/new).
+Hi! My name is Simon and I am a Test Automation Engineer by 🔆 and a Junior iOS Developer at 🌙
 
-Thanks for stopping by! 😄
+Thanks for stopping by and having a look at my work here! 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonberner&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
 
