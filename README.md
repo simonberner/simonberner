@@ -11,6 +11,9 @@ Thanks for stopping by and having a look at my work here! 😄
 From 2021 onwards, I am using [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)!
 You should too! 😉
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{simonberner}/count.svg" /></p> 
+
+
 <!--
 **simonberner/simonberner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
