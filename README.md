@@ -1,6 +1,6 @@
 ![image](https://github.com/simonberner/simonberner/blob/master/dino.gif)
 
-Hi! My name is Simon and I am a Test Automation Engineer by 🔆 and a Junior iOS Developer at 🌙
+Hi! I am Simon, a Mobile App Test Engineer by 🔆 and an iOS Developer at 🌙
 
 Thanks for stopping by and having a look at my work here! 😄
 
