@@ -1,6 +1,6 @@
 ![image](https://github.com/simonberner/simonberner/blob/master/dino.gif)
 
-Hi! I am Simon, a Mobile App Test Engineer by 🔆 and an iOS Developer at 🌙
+Hi! I am Simon, a Mobile App Test Engineer by 🔆 and an iOS Developer at 🌙 I also teach some stuff like Git and Pair(Programming) 🧑‍🤝‍🧑
 
 Thanks for stopping by and having a look at my work here! 😄
 
