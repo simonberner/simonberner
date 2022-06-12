@@ -8,8 +8,7 @@ Thanks for stopping by and having a look at my work here! 😄
 
 [![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonberner&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-From 2021 onwards, I am using [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)!
-You should too! 😉
+I am using [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)!
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{simonberner}/count.svg" /></p> 
 
