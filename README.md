@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 - 🏢 I’m currently working as Software Development Engineer in Test (SDET) by 🔆
-= ᠋🙃 I teach funny stuff like Pair Programming and Git
 - 📱 I'm a self-thaugth iOS Developer at 🌙 which is very enthusiastic about Mobile in general
+- ᠋🙃 I teach funny stuff like Pair Programming and Git
 - 🍏 I build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
 - 🌱 I work Day by day on personal projects to improve my software development skills
 - 📚 Technologies that I am studing: Xcode, Swift Language, SwiftUI, UIKIt, Core Data, Design Patterns and much more
