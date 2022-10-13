@@ -7,7 +7,7 @@
 - ᠋🙃 I teach funny stuff like Pair Programming and Git
 - 🍏 I build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
 - 🌱 I work day by day on personal projects to improve my software development skills
-- 📚 Technologies that I am studing: Xcode, Swift Language, SwiftUI, UIKIt, Core Data, Design Patterns and much more
+- 📚 Technologies that I study: Xcode, Swift Language, SwiftUI, UIKIt, Core Data, Design Patterns and much more
 
 Thanks for stopping by and having a look at my work here! 😄
 
