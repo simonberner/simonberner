@@ -2,12 +2,12 @@
 
 ### Hi there 👋
 
-- 🏢 I'm a Software Development Engineer in Test (SDET)
-- 📱 I'm a self-thaugth iOS Developer
+- 🏢 I'm a Software Development Engineer in Test (since 2010)
+- 📱 I'm an iOS Developer (since 2021)
 - ᠋🙃 I teach funny stuff like Pair Programming and Git
-- 🍏 I build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
+- 🍏 I like to build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
 - 🌱 I work day by day on personal projects to improve my software development skills
-- 📚 Technologies that I study: Xcode, Swift Language, SwiftUI, UIKIt, Core Data, Design Patterns, Architecture, Algorithms, and more
+- 📚 Technologies that I study: Xcode, Swift Language in general, SwiftUI, UIKIt, Core Data, Design Patterns, Architecture, Algorithms, and more
 - 🎤 From time to time I speak at conferences and meetups
 
 Thanks for stopping by and having a look at my work here! 😄
