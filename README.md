@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🏢 I'm a Software Development Engineer in Test (since 2010)
-- 📱 I'm an iOS Developer (since 2021)
+- 🏢 I'm a Software Development Engineer in Test (SDET)
+- 📱 I'm an iOS Developer
 - ᠋🙃 I teach funny stuff like Pair Programming and Git
 - 🍏 I like to build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
 - 🌱 I work day by day on personal projects to improve my software development skills
