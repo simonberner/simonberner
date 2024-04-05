@@ -8,8 +8,8 @@
 - 1️⃣ I teach how you and your team can use the version control system Git
 - 🍏 I like to build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
 - 🌱 I work day by day on personal projects to improve my software development skills
-- 📚 Technologies that I study: JavaScript/TypeScript, Swift, Design Patterns, Architecture, Algorithms and more
-- 🎤 From time to time I speak at conferences and meetups
+- 📚 Technologies that I study: JavaScript/TypeScript, Swift, Design Patterns, Architecture, Algorithms...
+- 🎤 From time to time I speak at (un)conferences and meetups
 
 Thanks for stopping by and having a look at my work here! 😄
 
