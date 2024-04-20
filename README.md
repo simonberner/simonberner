@@ -6,9 +6,9 @@
 - 📱 I'm an iOS Developer
 - ᠋🧑‍🤝‍🧑 I coach people on Software Pairing and Teaming
 - 1️⃣ I teach how you and your team can use the version control system Git
-- 🍏 I like to build Mobile Apps with Swift, SwiftUI, UIKit and other "Kits"
+- 🍏 I like to build iOS Mobile Apps with Swift, SwiftUI
 - 🌱 I work day by day on personal projects to improve my software development skills
-- 📚 Technologies that I study: JavaScript/TypeScript, Swift, Design Patterns, Architecture, Algorithms...
+- 📚 Technologies that I study: JavaScript/TypeScript, Python, Swift, Design Patterns, Architecture, Algorithms...
 - 🎤 From time to time I speak at (un)conferences and meetups
 
 Thanks for stopping by and having a look at my work here! 😄
