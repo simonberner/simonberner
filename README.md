@@ -10,6 +10,7 @@
 - 🌱 I work day by day on personal projects to improve my software development skills
 - 📚 Technologies that I study: JavaScript/TypeScript, Python, Swift, Design Patterns, Architecture, Algorithms...
 - 🎤 From time to time I speak at (un)conferences and meetups
+- 🥋 I love doing code katas
 
 Thanks for stopping by and having a look at my work here! 😄
 
