@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-- 🏢 I'm a Software Development Engineer in Test (SDET)
-- 📱 I'm an iOS Developer
+- 🏢 I'm a Software Development Engineer focused on Testing
 - ᠋🧑‍🤝‍🧑 I coach people on Software Pairing and Teaming
 - 1️⃣ I teach how you and your team can use the version control system Git
 - 🍏 I like to build iOS Mobile Apps with Swift, SwiftUI
