@@ -3,13 +3,12 @@
 ### Hi there 👋
 
 - 🏢 I'm a Software Development Engineer focused on Testing
-- ᠋🧑‍🤝‍🧑 I coach people on Software Pairing and Teaming
-- 1️⃣ I teach how you and your team can use the version control system Git
-- 🍏 I like to build iOS Mobile Apps with Swift, SwiftUI
+- ᠋🧑‍🤝‍🧑 I coach people on Software Testing, Pairing and Teaming
 - 🌱 I work day by day on personal projects to improve my development skills
-- 📚 Technologies that I study: Python, JavaScript/TypeScript, Swift, Design Patterns, Architecture, Algorithms...
+- 📚 Technologies that I study: Go, Python, JavaScript/TypeScript, Design Patterns, Architecture, Algorithms...
 - 🎤 From time to time I speak at (un)conferences and meetups
 - 🥋 I love doing code katas
+- 🍏 I like to build iOS Mobile Apps with Swift, SwiftUI
 
 Thanks for stopping by and having a look at my work here! 😄
 
