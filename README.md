@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🏢 I'm a Software Development Engineer focused on Testing
+- 🏢 I'm a Software Engineer focused on Testing
 - ᠋🧑‍🤝‍🧑 I coach people on Software Testing, Pairing and Teaming
 - 🌱 I work day by day on personal projects to improve my development skills
 - 📚 Technologies that I study: Go, Python, JavaScript/TypeScript, Design Patterns, Architecture, Algorithms...
