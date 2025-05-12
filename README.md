@@ -8,7 +8,7 @@
 - 📚 Technologies that I study: Go, Python, JavaScript/TypeScript, Design Patterns, Architecture, Algorithms...
 - 🎤 From time to time I speak at (un)conferences and meetups
 - 🥋 I like doing code katas
-- ⛏️ I like to explore new shinny things
+- ⛏️ I like to explore new grounds
 
 Thanks for stopping by and having a look at my work here! 😄
 
