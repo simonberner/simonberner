@@ -4,11 +4,11 @@
 
 - 🏢 I'm a Software Engineer focused on Testing
 - ᠋🧑‍🤝‍🧑 I coach people on Software Testing, Pairing and Teaming
-- 🌱 I work day by day on personal projects to improve my development skills
+- 🌱 I work day by day on personal projects to improve my technical and soft skills
 - 📚 Technologies that I study: Go, Python, JavaScript/TypeScript, Design Patterns, Architecture, Algorithms...
 - 🎤 From time to time I speak at (un)conferences and meetups
-- 🥋 I love doing code katas
-- 🍏 I like to build iOS Mobile Apps with Swift, SwiftUI
+- 🥋 I like doing code katas
+- ⛏️ I like to explore new shinny things
 
 Thanks for stopping by and having a look at my work here! 😄
 
