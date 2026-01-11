@@ -1,11 +1,11 @@
 ![image](https://github.com/simonberner/simonberner/blob/master/dino.gif)
 
-### Hi there 👋
+### Hi 👋
 
-- 🏢 I'm a Software Engineer focused on Testing
-- ᠋🧑‍🤝‍🧑 I coach people on Software Testing, Pairing and Teaming
+- 🏢 I'm a Software Development Engineer with focus on Testing
 - 🌱 I work day by day on personal projects to improve my technical and soft skills
-- 📚 Technologies that I study: Go, Python, JavaScript/TypeScript, Design Patterns, Architecture, Algorithms...
+- 📚 Technologies that I study: Python, JavaScript/TypeScript, Java, Go, Design Patterns, Architecture, Algorithms...
+- 🧑‍🤝‍🧑 I coach people on Software Testing, Pairing and Teaming
 - 🎤 From time to time I speak at (un)conferences and meetups
 - 🥋 I like doing code katas
 - ⛏️ I like to explore new grounds
