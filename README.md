@@ -1,5 +1,7 @@
 ![image](https://github.com/simonberner/simonberner/blob/master/dino.gif)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=simmonberner)
+
 ### Hi 👋
 
 - 🏢 I'm a Software Development Engineer with focus on Testing
